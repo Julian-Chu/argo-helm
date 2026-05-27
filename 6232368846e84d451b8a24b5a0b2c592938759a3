@@ -1,0 +1,23 @@
+charts/argo-cd/templates/argocd-application-controller/statefulset.yaml
+  fef20a0d0b553b30 83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "6232368846e84d451b8a24b5a0b2c592938759a3",
+  "prompts": {
+    "fef20a0d0b553b30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fd7fbf73-08d1-4f82-8838-16f8eb0db3d7",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Julian-Chu",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
